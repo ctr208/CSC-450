@@ -1,0 +1,32 @@
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\bin\Debug\ReadHTML.exe.config
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\bin\Debug\ReadHTML.exe
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\bin\Debug\ReadHTML.pdb
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\obj\Debug\ReadHTML.csprojAssemblyReference.cache
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\obj\Debug\ReadHTML.Form1.resources
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\obj\Debug\ReadHTML.Properties.Resources.resources
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\obj\Debug\ReadHTML.csproj.GenerateResource.cache
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\obj\Debug\ReadHTML.csproj.CoreCompileInputs.cache
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\obj\Debug\ReadHTML.csproj.CopyComplete
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\obj\Debug\ReadHTML.exe
+C:\Users\ctr20\source\repos\ReadHTML\ReadHTML\obj\Debug\ReadHTML.pdb
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\bin\Debug\ReadHTML.exe.config
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\bin\Debug\ReadHTML.exe
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\bin\Debug\ReadHTML.pdb
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\obj\Debug\ReadHTML.csprojAssemblyReference.cache
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\obj\Debug\ReadHTML.Form1.resources
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\obj\Debug\ReadHTML.Properties.Resources.resources
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\obj\Debug\ReadHTML.csproj.GenerateResource.cache
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\obj\Debug\ReadHTML.csproj.CoreCompileInputs.cache
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\obj\Debug\ReadHTML.csproj.CopyComplete
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\obj\Debug\ReadHTML.exe
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\obj\Debug\ReadHTML.pdb
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\bin\Debug\WebDriver.dll
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\bin\Debug\WebDriver.xml
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\bin\Debug\WebDriver.Support.dll
+C:\Users\ctr20\Projects\VisualStudio Projects\ReadHTML\ReadHTML\bin\Debug\WebDriver.Support.xml
